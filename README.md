@@ -6,7 +6,7 @@
 Зашифруйте домашний каталог пользователя с помощью eCryptfs.
 В качестве ответа пришлите снимки экрана домашнего каталога пользователя с исходными и зашифрованными данными.
 
-![scr1](https://github.com/AlexandeAbel/hw-n-13.2.md/blob/main/Scr1.jpg)
+![scr1](https://github.com/AlexandeAbel/hw-n-13.2/tree/main/img/Scr1.jpg)
 
 Задание 2
 Установите поддержку LUKS.
