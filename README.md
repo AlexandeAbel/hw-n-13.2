@@ -10,10 +10,10 @@
 ![scr1](https://github.com/AlexandeAbel/hw-n-13.2/blob/main/img/Scr1.jpg)
 
 2.  
-![scr2](https://github.com/AlexandeAbel/hw-n-13.2/blob/main/img/Scr1.jpg)
+![scr2](https://github.com/AlexandeAbel/hw-n-13.2/blob/main/img/Scr2.jpg)
 
 3.
-![scr3](https://github.com/AlexandeAbel/hw-n-13.2/blob/main/img/Scr1.jpg)
+![scr3](https://github.com/AlexandeAbel/hw-n-13.2/blob/main/img/Scr3.jpg)
 
 Задание 2
 Установите поддержку LUKS.
@@ -22,7 +22,7 @@
 В качестве ответа пришлите снимки экрана с поэтапным выполнением задания.
 
 1.
-![scr4](https://github.com/AlexandeAbel/hw-n-13.2/blob/main/img/Scr1.jpg)
+![scr4](https://github.com/AlexandeAbel/hw-n-13.2/blob/main/img/Scr4.jpg)
 
 2.
-![scr5](https://github.com/AlexandeAbel/hw-n-13.2/blob/main/img/Scr1.jpg)
+![scr5](https://github.com/AlexandeAbel/hw-n-13.2/blob/main/img/Scr5.jpg)
