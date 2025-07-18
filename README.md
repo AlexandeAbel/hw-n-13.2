@@ -25,4 +25,4 @@
 ![scr4](https://github.com/AlexandeAbel/hw-n-13.2/blob/main/img/Scr4.jpg)
 
 2.
-![scr5](https://github.com/AlexandeAbel/hw-n-13.2/blob/main/img/Scr5.jpg)
+![scr5](https://github.com/AlexandeAbel/hw-n-13.2/blob/main/img/scr5.jpg)
