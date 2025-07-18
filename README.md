@@ -7,7 +7,11 @@
 В качестве ответа пришлите снимки экрана домашнего каталога пользователя с исходными и зашифрованными данными.
 
 ![scr1](https://github.com/AlexandeAbel/hw-n-13.2/blob/main/img/Scr1.jpg)
+
+
 ![scr2](https://github.com/AlexandeAbel/hw-n-13.2/blob/main/img/Scr1.jpg)
+
+
 ![scr3](https://github.com/AlexandeAbel/hw-n-13.2/blob/main/img/Scr1.jpg)
 
 Задание 2
@@ -17,4 +21,6 @@
 В качестве ответа пришлите снимки экрана с поэтапным выполнением задания.
 
 ![scr4](https://github.com/AlexandeAbel/hw-n-13.2/blob/main/img/Scr1.jpg)
+
+
 ![scr5](https://github.com/AlexandeAbel/hw-n-13.2/blob/main/img/Scr1.jpg)
